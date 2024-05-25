@@ -10,10 +10,10 @@ data = pd.read_csv(file_path)
 
 # # Summary statistics
 summary_stats = data.describe(include='all')
-# print(summary_stats)
 
 # # Check for missing values
 missing_values = data.isnull().sum()
+data = data.drop(columns=['gross margin percentage'])
 
 
 # Summary statistics
