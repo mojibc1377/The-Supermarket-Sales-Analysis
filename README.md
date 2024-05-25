@@ -13,7 +13,8 @@ Product Line
 This bar chart depicts the sales distribution across various product lines. The product lines include Health and Beauty, Electronic Accessories, Home and Lifestyle, Sports and Travel, Food and Beverages, and Fashion Accessories. The distribution is relatively balanced, but there are slight variations in the number of sales for each product line. This helps in understanding which product categories are more popular among customers.
 
 3. Sales Trend Over Time
-<img width="739" alt="Screenshot 2024-05-18 at 00 08 51" src="https://github.com/mojibc1377/ssupermarket-sales/assets/82224660/8299edb2-6c57-4ab0-adae-cbe85cbcf767">
+<img width="1440" alt="Screenshot 2024-05-25 at 13 26 47" src="https://github.com/mojibc1377/ssupermarket-sales/assets/82224660/6759cbbf-fc1d-46ec-897c-5502bd7bf098">
+
 
 
 This line chart shows the total sales trend over time. The x-axis represents the date, and the y-axis represents the total sales amount. The sales trend appears to be quite volatile, with significant fluctuations over the observed period. This volatility could be due to various factors such as promotions, holidays, or seasonal changes affecting customer buying behavior.
