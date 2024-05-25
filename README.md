@@ -20,7 +20,8 @@ This bar chart depicts the sales distribution across various product lines. The 
 This line chart shows the total sales trend over time. The x-axis represents the date, and the y-axis represents the total sales amount. The sales trend appears to be quite volatile, with significant fluctuations over the observed period. This volatility could be due to various factors such as promotions, holidays, or seasonal changes affecting customer buying behavior.
 
 4. Correlation Matrix
-<img width="1440" alt="Screenshot 2024-05-25 at 13 26 56" src="https://github.com/mojibc1377/ssupermarket-sales/assets/82224660/ac9ee01e-7f5a-4b4b-b23a-b2bd0b8a529e">
+<img width="1437" alt="Screenshot 2024-05-25 at 16 03 05" src="https://github.com/mojibc1377/supermarket-sales/assets/82224660/6581f62c-27fa-4f6c-b36d-70580b06e67f">
+
 
 The correlation matrix heatmap shows the relationships between different numerical variables in the dataset. The colors indicate the strength and direction of the correlations, with red representing strong positive correlations and blue representing weak or negative correlations. Key observations include:
 
